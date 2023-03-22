@@ -1,0 +1,15 @@
+C:\Users\fabrizio\Desktop\TP2Sanchezfabrizioyulicesacosta\trabajon9\trabajon9\bin\Debug\net6.0\trabajon9.exe
+C:\Users\fabrizio\Desktop\TP2Sanchezfabrizioyulicesacosta\trabajon9\trabajon9\bin\Debug\net6.0\trabajon9.deps.json
+C:\Users\fabrizio\Desktop\TP2Sanchezfabrizioyulicesacosta\trabajon9\trabajon9\bin\Debug\net6.0\trabajon9.runtimeconfig.json
+C:\Users\fabrizio\Desktop\TP2Sanchezfabrizioyulicesacosta\trabajon9\trabajon9\bin\Debug\net6.0\trabajon9.dll
+C:\Users\fabrizio\Desktop\TP2Sanchezfabrizioyulicesacosta\trabajon9\trabajon9\bin\Debug\net6.0\trabajon9.pdb
+C:\Users\fabrizio\Desktop\TP2Sanchezfabrizioyulicesacosta\trabajon9\trabajon9\obj\Debug\net6.0\trabajon9.csproj.AssemblyReference.cache
+C:\Users\fabrizio\Desktop\TP2Sanchezfabrizioyulicesacosta\trabajon9\trabajon9\obj\Debug\net6.0\trabajon9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabrizio\Desktop\TP2Sanchezfabrizioyulicesacosta\trabajon9\trabajon9\obj\Debug\net6.0\trabajon9.AssemblyInfoInputs.cache
+C:\Users\fabrizio\Desktop\TP2Sanchezfabrizioyulicesacosta\trabajon9\trabajon9\obj\Debug\net6.0\trabajon9.AssemblyInfo.cs
+C:\Users\fabrizio\Desktop\TP2Sanchezfabrizioyulicesacosta\trabajon9\trabajon9\obj\Debug\net6.0\trabajon9.csproj.CoreCompileInputs.cache
+C:\Users\fabrizio\Desktop\TP2Sanchezfabrizioyulicesacosta\trabajon9\trabajon9\obj\Debug\net6.0\trabajon9.dll
+C:\Users\fabrizio\Desktop\TP2Sanchezfabrizioyulicesacosta\trabajon9\trabajon9\obj\Debug\net6.0\refint\trabajon9.dll
+C:\Users\fabrizio\Desktop\TP2Sanchezfabrizioyulicesacosta\trabajon9\trabajon9\obj\Debug\net6.0\trabajon9.pdb
+C:\Users\fabrizio\Desktop\TP2Sanchezfabrizioyulicesacosta\trabajon9\trabajon9\obj\Debug\net6.0\trabajon9.genruntimeconfig.cache
+C:\Users\fabrizio\Desktop\TP2Sanchezfabrizioyulicesacosta\trabajon9\trabajon9\obj\Debug\net6.0\ref\trabajon9.dll
