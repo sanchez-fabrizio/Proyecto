@@ -1,0 +1,7 @@
+E:\usuarios\alumno\Escritorio\tp5\trabajon3\trabajon3\bin\Debug\trabajon3.exe.config
+E:\usuarios\alumno\Escritorio\tp5\trabajon3\trabajon3\bin\Debug\trabajon3.exe
+E:\usuarios\alumno\Escritorio\tp5\trabajon3\trabajon3\bin\Debug\trabajon3.pdb
+E:\usuarios\alumno\Escritorio\tp5\trabajon3\trabajon3\obj\Debug\trabajon3.csprojAssemblyReference.cache
+E:\usuarios\alumno\Escritorio\tp5\trabajon3\trabajon3\obj\Debug\trabajon3.csproj.CoreCompileInputs.cache
+E:\usuarios\alumno\Escritorio\tp5\trabajon3\trabajon3\obj\Debug\trabajon3.exe
+E:\usuarios\alumno\Escritorio\tp5\trabajon3\trabajon3\obj\Debug\trabajon3.pdb

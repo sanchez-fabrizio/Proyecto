@@ -1,0 +1,15 @@
+E:\usuarios\alumno\Escritorio\tp5\trabajon8\trabajon8\bin\Debug\trabajon8.exe.config
+E:\usuarios\alumno\Escritorio\tp5\trabajon8\trabajon8\bin\Debug\trabajon8.exe
+E:\usuarios\alumno\Escritorio\tp5\trabajon8\trabajon8\bin\Debug\trabajon8.pdb
+E:\usuarios\alumno\Escritorio\tp5\trabajon8\trabajon8\obj\Debug\trabajon8.csprojAssemblyReference.cache
+E:\usuarios\alumno\Escritorio\tp5\trabajon8\trabajon8\obj\Debug\trabajon8.csproj.CoreCompileInputs.cache
+E:\usuarios\alumno\Escritorio\tp5\trabajon8\trabajon8\obj\Debug\trabajon8.exe
+E:\usuarios\alumno\Escritorio\tp5\trabajon8\trabajon8\obj\Debug\trabajon8.pdb
+C:\Users\fabrizio\Desktop\tp5\trabajon8\trabajon8\bin\Debug\trabajon8.exe.config
+C:\Users\fabrizio\Desktop\tp5\trabajon8\trabajon8\bin\Debug\trabajon8.exe
+C:\Users\fabrizio\Desktop\tp5\trabajon8\trabajon8\bin\Debug\trabajon8.pdb
+C:\Users\fabrizio\Desktop\tp5\trabajon8\trabajon8\obj\Debug\trabajon8.csproj.AssemblyReference.cache
+C:\Users\fabrizio\Desktop\tp5\trabajon8\trabajon8\obj\Debug\trabajon8.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabrizio\Desktop\tp5\trabajon8\trabajon8\obj\Debug\trabajon8.csproj.CoreCompileInputs.cache
+C:\Users\fabrizio\Desktop\tp5\trabajon8\trabajon8\obj\Debug\trabajon8.exe
+C:\Users\fabrizio\Desktop\tp5\trabajon8\trabajon8\obj\Debug\trabajon8.pdb

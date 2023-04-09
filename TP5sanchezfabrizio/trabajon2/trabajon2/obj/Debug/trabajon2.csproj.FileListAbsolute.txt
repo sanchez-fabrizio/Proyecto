@@ -1,0 +1,15 @@
+E:\usuarios\alumno\Escritorio\tp5\trabajon2\trabajon2\obj\Debug\trabajon2.csprojAssemblyReference.cache
+E:\usuarios\alumno\Escritorio\tp5\trabajon2\trabajon2\obj\Debug\trabajon2.csproj.CoreCompileInputs.cache
+E:\usuarios\alumno\Escritorio\tp5\trabajon2\trabajon2\bin\Debug\trabajon2.exe.config
+E:\usuarios\alumno\Escritorio\tp5\trabajon2\trabajon2\bin\Debug\trabajon2.exe
+E:\usuarios\alumno\Escritorio\tp5\trabajon2\trabajon2\bin\Debug\trabajon2.pdb
+E:\usuarios\alumno\Escritorio\tp5\trabajon2\trabajon2\obj\Debug\trabajon2.exe
+E:\usuarios\alumno\Escritorio\tp5\trabajon2\trabajon2\obj\Debug\trabajon2.pdb
+C:\Users\fabrizio\Desktop\tp5\trabajon2\trabajon2\bin\Debug\trabajon2.exe.config
+C:\Users\fabrizio\Desktop\tp5\trabajon2\trabajon2\bin\Debug\trabajon2.exe
+C:\Users\fabrizio\Desktop\tp5\trabajon2\trabajon2\bin\Debug\trabajon2.pdb
+C:\Users\fabrizio\Desktop\tp5\trabajon2\trabajon2\obj\Debug\trabajon2.csproj.AssemblyReference.cache
+C:\Users\fabrizio\Desktop\tp5\trabajon2\trabajon2\obj\Debug\trabajon2.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabrizio\Desktop\tp5\trabajon2\trabajon2\obj\Debug\trabajon2.csproj.CoreCompileInputs.cache
+C:\Users\fabrizio\Desktop\tp5\trabajon2\trabajon2\obj\Debug\trabajon2.exe
+C:\Users\fabrizio\Desktop\tp5\trabajon2\trabajon2\obj\Debug\trabajon2.pdb
